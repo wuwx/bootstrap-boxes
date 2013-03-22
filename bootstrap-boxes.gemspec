@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Bootstrap::Boxes::VERSION
   spec.authors       = ["wuwx"]
   spec.email         = ["wuweixin@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = "Twitter Bootstrap Box Styles"
+  spec.summary       = "Bootstrap Boxes"
   spec.homepage      = ""
   spec.license       = "MIT"
 
