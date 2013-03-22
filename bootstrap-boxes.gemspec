@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["wuweixin@gmail.com"]
   spec.description   = "Twitter Bootstrap Box Styles"
   spec.summary       = "Bootstrap Boxes"
-  spec.homepage      = ""
+  spec.homepage      = "http://github.com/wuwx/bootstrap-boxes"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
