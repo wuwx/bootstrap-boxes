@@ -1,6 +1,6 @@
 # Bootstrap::Boxes
 
-TODO: Write a gem description
+Add box styles for twitter bootstrap
 
 ## Installation
 
@@ -18,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    *= require bootstrap
+    *= require bootstrap-boxes
 
 ## Contributing
 
