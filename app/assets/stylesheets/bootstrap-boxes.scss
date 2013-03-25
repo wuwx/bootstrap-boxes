@@ -58,9 +58,23 @@
     
     .box-header {
       background-color: #F7F7F7;
+      background-image:         linear-gradient(#fafafa, #eaeaea);
       background-image: -webkit-linear-gradient(#fafafa, #eaeaea);
     }
     
   }
 
+}
+
+.table {
+  &.table-bordered {
+    thead {
+      background-color: #F7F7F7;
+      background-image:         linear-gradient(#fafafa, #eaeaea);
+      background-image: -webkit-linear-gradient(#fafafa, #eaeaea);
+    }
+    .alert {
+      border-radius: 0;
+    }
+  }
 }
