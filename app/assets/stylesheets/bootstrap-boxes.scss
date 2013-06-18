@@ -2,7 +2,6 @@
   color: #333;
   margin-bottom: 20px;
   border-radius: 4px;
-  padding: 10px;
   
   h1, h2, h3, h4, h5, h6 {
     @extend .box-header;
@@ -34,12 +33,9 @@
   
   form {
     margin: 0;
-    margin-top: 20px;
     
     .form-actions {
-      margin: -10px;
-      margin-top: 10px;
-      padding: 10px;
+      margin: 10px 0 0 0;
     }
   }
 
@@ -51,6 +47,7 @@
   
   &.box-white {
     background-color: #FFF;
+    padding: 10px;
   }
   
   &.box-bordered {
